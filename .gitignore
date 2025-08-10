@@ -1,0 +1,10 @@
+*.class
+target/
+bin/
+out/
+*.log
+*.iml
+.idea/
+.vscode/
+.DS_Store
+*.properties
